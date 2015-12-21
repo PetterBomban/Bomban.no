@@ -1,0 +1,46 @@
+body  { 
+	margin:0;
+	padding:0;
+	font:16px  Helvetica, Arial, sans-serif;
+	color: #AAAAAA;
+	background-color: #FFFFFF;
+
+}
+
+#content {
+	padding: 50px;
+
+}
+
+a:link, a:visited {
+	color: #AAAAAA;
+	text-decoration: none;
+
+}
+
+a:hover {text-decoration: underline;}
+
+h1  {
+	color: #222222;
+	text-align: justify;
+	letter-spacing: -0.05em;
+	font: bold 140px/130px Arial, Helvetica, sans-serif;
+
+}
+
+h2 {
+	text-align: justify;
+	padding-left: 9px;
+
+}
+
+h1 a:link, h1 a:visited {
+	color: #222222;
+	text-decoration: none;
+
+}
+
+h1 a:hover {
+	text-decoration: underline;
+
+}
