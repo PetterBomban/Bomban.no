@@ -18,10 +18,7 @@ a:link, a:visited {
 
 }
 
-a:hover {
-	text-decoration: underline;
-
-}
+a:hover {text-decoration: underline;}
 
 h1  {
 	color: #222222;
@@ -29,6 +26,9 @@ h1  {
 	letter-spacing: -0.05em;
 	font: bold 140px/130px Arial, Helvetica, sans-serif;
 
+}
+p {
+	text-align: justify;
 }
 
 h2 {
